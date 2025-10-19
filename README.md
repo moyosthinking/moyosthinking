@@ -1,6 +1,4 @@
-## My name is Moyo
-## I'm a Computer Sciene and Business Administration major at Northeastern University
-## too be finished...
+## Hi!
 
 <!--
 **moyosthinking/moyosthinking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
